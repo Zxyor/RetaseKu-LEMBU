@@ -1,0 +1,10 @@
+streamlit
+numpy<2.0.0
+PyMySQL
+pandas
+matplotlib
+reportlab
+python-docx
+openpyxl
+python-dateutil
+SQLAlchemy
